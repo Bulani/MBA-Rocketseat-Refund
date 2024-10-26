@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
-</p>
-
-<p align="center">
 Aplicação desenvolvida na Formação Fullstack da Rocketseat.
 </p>
 
